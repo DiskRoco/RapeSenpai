@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://xiaohuang257.github.io/RapeSenpai/index.html"><img src="https://github.com/Xiaohuang257/RapeSenpai/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="RapeSenpai"></a>
+  <a href="https://aaa.archived.roco.work"><img src="https://aaa.archived.roco.work/static/image/ClickBefore.png" width="100" height="100" alt="RapeSenpai"></a>
 </p>
 <div align="center">
 
@@ -10,4 +10,4 @@
 ## 简介
 小游戏：雷普先辈
 
-纯恶搞无恶意。
+本项目存档自 https://github.com/xiaohuang257
