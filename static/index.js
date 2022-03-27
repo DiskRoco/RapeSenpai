@@ -6,7 +6,7 @@
         (isDesktop ? '#welcome,#GameTimeLayer,#GameLayerBG,#GameScoreLayer.SHADE{position: absolute;}' :
             '#welcome,#GameTimeLayer,#GameLayerBG,#GameScoreLayer.SHADE{position:fixed;}@media screen and (orientation:landscape) {#landscape {display: box; display: -webkit-box; display: -moz-box; display: -ms-flexbox;}}') +
         '</style>');
-    let map = {'d': 1, 'f': 2, 'j': 3, 'k': 4};
+    let map = {'f': 1, 'g': 2, 'h': 3, 'j': 4};
     if (isDesktop) {
         document.write('<div id="gameBody">');
         document.onkeydown = function (e) {
